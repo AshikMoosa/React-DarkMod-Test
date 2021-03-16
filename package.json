@@ -1,0 +1,24 @@
+{
+  "name": "sample-dark",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.34",
+    "@fortawesome/free-solid-svg-icons": "^5.15.2",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "bootstrap": "^4.6.0",
+    "next": "10.0.8",
+    "node-sass": "^5.0.0",
+    "react": "17.0.1",
+    "react-bootstrap": "^1.5.2",
+    "react-dom": "17.0.1",
+    "react-toggle": "^4.1.2",
+    "reactstrap": "^8.9.0",
+    "sass-node": "^4.11.2"
+  }
+}
